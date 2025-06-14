@@ -5,10 +5,10 @@
 .vscode/ipch
 .pio/
 .vscode/
-*.pyc
+.pyc
 __pycache__/
-*.bin
-*.elf
-*.hex
-*.exe
-*.log
+.bin
+.elf
+.hex
+.exe
+.log
