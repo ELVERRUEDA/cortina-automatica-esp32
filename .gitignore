@@ -3,3 +3,12 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.pio/
+.vscode/
+*.pyc
+__pycache__/
+*.bin
+*.elf
+*.hex
+*.exe
+*.log
